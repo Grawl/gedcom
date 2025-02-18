@@ -135,4 +135,4 @@ export const FORMAL_NAMES = {
   WIFE: "WIFE",
   WILL: "WILL",
   WWW: "WEB",
-};
+} as const;
